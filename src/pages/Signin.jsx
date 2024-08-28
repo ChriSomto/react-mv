@@ -21,7 +21,7 @@ const Signin = () => {
         <div className="w-[500px]">
             <div className="p-8">
         <div className="w-full flex ml-5 items-center gap-3 h-max-content">
-        <a href="/" className="flex gap-2 text-[#e83aff] ml-8">
+        <a href="/" className="flex gap-2 text-[#e83aff] ml-13">
                 <ArrowLeft className="text-[#e83aff] cursor-pointer"/> Home
             </a>
         </div>
