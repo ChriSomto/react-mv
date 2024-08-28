@@ -21,7 +21,7 @@ const Signup = () => {
     <div className={`flex h-[100vh] flex-col items-center py-6 px-4 transition-all duration-300 ease-in-out`}>
         <div className="w-[500px]">
             <div className="p-8">
-        <div className="w-full flex items-center gap-3 h-max-content">
+        <div className="w-full flex items-center gap-3 h-max-content ml-8">
             <a href="/" className="flex gap-2 text-[#e83aff] ml-13">
                 <ArrowLeft className="text-[#e83aff] cursor-pointer"/> Home
             </a>
