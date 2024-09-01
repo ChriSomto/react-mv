@@ -25,7 +25,7 @@ const Services = () => {
               <img
                 className="w-full h-full object-cover md:object-right"
                 width={800}
-                alt="Reliable Image Engine"
+                alt="Engine"
                 height={730}
                 src={service1}
               />
@@ -42,7 +42,7 @@ const Services = () => {
                     key={index}
                     className="flex items-start py-4 border-t border-n-6"
                   >
-                    <img width={24} height={24} src={check} />
+                    <img width={24} height={24} alt="engine-check" src={check} />
                     <p className="ml-4">{item}</p>
                   </li>
                 ))}
